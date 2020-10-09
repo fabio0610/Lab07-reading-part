@@ -37,3 +37,4 @@
 /sample
 *.DS_Store
 /lib/googletest
+/lib/nlohmann
